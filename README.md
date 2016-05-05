@@ -1,3 +1,3 @@
 # Agar.io-Dump
 
-//agar.io site dump.
+THIS IS NOT AN AGAR.IO CLIENT!!.
